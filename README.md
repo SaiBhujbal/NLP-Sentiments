@@ -62,7 +62,7 @@ The dataset used in this project is the IMDB movie reviews dataset. It contains 
   - **review**: The actual movie review text.
   - **sentiment**: The label (positive or negative).
 
-The dataset can be downloaded from [IMDB Dataset](https://ai.stanford.edu/~amaas/data/sentiment/).
+The dataset can be downloaded from [IMDB Dataset]([https://ai.stanford.edu/~amaas/data/sentiment/](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)).
 
 ## Running the Notebook
 
